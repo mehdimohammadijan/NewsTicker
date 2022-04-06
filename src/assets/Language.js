@@ -1,0 +1,15 @@
+export const languageitems=[
+    {text: 'Arabic', value: 'ar'},
+    {text: 'German', value: 'de'},
+    {text: 'English', value: 'en'},
+    {text: 'Spanish', value: 'es'},
+    {text: 'French', value: 'fr'},
+    {text: 'Hebrew', value: 'he'},
+    {text: 'Italian', value: 'it'},
+    {text: 'Dutch', value: 'nl'},
+    {text: 'Norwegian', value: 'no'},
+    {text: 'Portuguese', value: 'pt'},
+    {text: 'Russian', value: 'ru'},
+    {text: 'Chinese', value: 'zh'},
+    {text: 'Swedish', value: 'se'}, 
+]
